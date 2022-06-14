@@ -1,1 +1,1 @@
-# Currency_converter
+# Конвертер валют, использующий данные google
